@@ -8,14 +8,14 @@ Bu demo, .NET ekosisteminde test süreçlerini iyileştirmek için `Bogus` küt�
 Her iki yaklaşımın avantajlarını inceleyecek ve hangi durumlarda hangi yöntemin kullanılmasının daha uygun olacağını tartışacağız.
 
 ## İçindekiler
-- [Proje Hakkında](#proje-hakkında)
+- [Demo Hakkında](#proje-hakkında)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Yaklaşımlar](#yaklaşımlar)
 - [Katkı](#katkı)
 - [Lisans](#lisans)
 
-## Proje Hakkında
+## Demo Hakkında
 
 Gerçek verilerle test yapmak çoğu zaman güvenlik, gizlilik ve erişilebilirlik sorunlarına yol açabilir. Bu nedenle, sahte ancak gerçekçi görünen veriler üretmek yazılım projelerinde oldukça önemlidir. Bu proje, `Bogus` kütüphanesini kullanarak sahte kullanıcı verileri üretmek için iki farklı yaklaşımı incelemektedir.
 
