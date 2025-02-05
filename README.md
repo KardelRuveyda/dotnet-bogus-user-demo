@@ -1,7 +1,7 @@
 
 # Bogus Kütüphanesi ile Sahte Kullanıcı Verisi Üretme
 
-Bu proje, .NET ekosisteminde test süreçlerini iyileştirmek için `Bogus` kütüphanesini kullanarak sahte kullanıcı verileri üretmeyi amaçlamaktadır. Bu repo, iki farklı yaklaşımı incelemektedir:
+Bu demo, .NET ekosisteminde test süreçlerini iyileştirmek için `Bogus` kütüphanesini kullanarak sahte kullanıcı verileri üretmeyi amaçlamaktadır. Bu repo, iki farklı yaklaşımı incelemektedir:
 - Statik metod ile sahte veri üretme
 - `Faker` sınıfından türetilmiş bir alt sınıf ile sahte veri üretme
 
