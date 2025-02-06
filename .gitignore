@@ -1,0 +1,13 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+
+# Ignore log files
+*.log
