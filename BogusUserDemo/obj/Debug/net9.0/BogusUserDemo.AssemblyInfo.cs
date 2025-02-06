@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BogusUserDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9b4565834fc4ffdf34a2df2ed73dea6acbf910f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BogusUserDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BogusUserDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
